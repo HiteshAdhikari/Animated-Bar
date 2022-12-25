@@ -34,7 +34,6 @@
     height: 10px;
     width: 0%;
     /* This percent will see its parent element which is .bar  */
-    /*delete this  */
     border-radius: 5px;
 
 }
